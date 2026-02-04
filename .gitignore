@@ -2,3 +2,6 @@
 /_book/
 
 **/*.quarto_ipynb
+
+# Temporarily exclude long filename PDFs
+**/Theme3-Co-Producing-More-Effective-Public-Health-Intelligence-During-Our-Pandemic-Response.An-Evaluation-of-SEIR-Modelling-and-Enhanced-Stakeholder-Engagement-during-the-COVID-19-Pandemic.pdf
