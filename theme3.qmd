@@ -389,7 +389,7 @@ This section showcases posters related to the Targeting Care/Advancing Analytics
 
 ---
 
-### Vibe coding for Pharmacy analysis with open data
+### Vibe coding for England Pharmacy analysis with open data
 
 **Authors**:
 
