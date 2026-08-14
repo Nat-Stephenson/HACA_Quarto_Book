@@ -393,7 +393,7 @@ This section showcases posters related to the Targeting Care/Advancing Analytics
 
 **Authors**:
 
-- Chaeyoon Kim, Data Scientist, Workforce Training and Education – Data and Analytics at NHS England
+- Chaeyoon Kim, Data Scientist at NHS England
 
 **Theme**: Methods & Tools
 
