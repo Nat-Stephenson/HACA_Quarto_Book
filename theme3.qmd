@@ -397,7 +397,7 @@ This section showcases posters related to the Targeting Care/Advancing Analytics
 
 **Theme**: Methods & Tools
 
-[View Full Poster (PDF)](posters/Theme3-Vibe-coding-for-Pharmacy-analysis-with-open-data.pdf)
+[View Full Poster (PDF)](posters/Theme3-Vibe-coding-for-England-Pharmacy-analysis-with-open-data.pdf)
 
 [View Project Repository (GitHub)](https://github.com/chaeyoonakim/pharmacy-analysis-with-open-data)
 
