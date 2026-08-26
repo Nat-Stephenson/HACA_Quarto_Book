@@ -389,4 +389,18 @@ This section showcases posters related to the Targeting Care/Advancing Analytics
 
 ---
 
+### Vibe coding for England Pharmacy analysis with open data
+
+**Authors**:
+
+- Chaeyoon Kim, Data Scientist at NHS England
+
+**Theme**: Methods & Tools
+
+[View Full Poster (PDF)](posters/Theme3-Vibe-coding-for-England-Pharmacy-analysis-with-open-data.pdf)
+
+[View Project Repository (GitHub)](https://github.com/chaeyoonakim/pharmacy-analysis-with-open-data)
+
+---
+
 [Back to Home](index.qmd) | [HACA Main Site](https://haca-conference.nhs.uk/)
